@@ -4,7 +4,7 @@
 function changeHeadingText() {
   // TODO: Implement this function
   const heading = document.getElementById('main-heading');
-  heading.textContent = 'DOM Manipulation Challenge'
+  heading.textContent = 'DOM Manipulation Challenge';
 }
 
 /**
